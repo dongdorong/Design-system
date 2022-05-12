@@ -7,13 +7,13 @@
 - Product가 커질수록 관리를 수월하게 할 수 있습니다.
 
 ### Design system research
--<a href="https://www.lightningdesignsystem.com/design-tokens/#category-color" target="_blank">Design Tokens</a>
--<a href="https://bi.spoqa.com/" target="_blank">스포카 Design Guideline</a>
--<a href="https://www.ibm.com/design/" target="_blank">IBM Design</a>
--<a href="https://carbondesignsystem.com/" target="_blank">Carbon design system</a>
--<a href="https://blog.toss.im/article/toss-designer-interview" target="_blank">TDS(toss design system)</a>
--<a href="https://brunch.co.kr/@creative/105" target="_blank">티몬 UI kit</a>
--<a href="https://programmers.co.kr/design/components" target="_blank">프로그래머스 design system</a>
--<a href="https://ui.class101.dev/" target="_blank">Class 101 UI Code</a>
--<a href="https://atlassian.design/" target="_blank">Atlassian Design system</a>
--<a href="https://designsystemsrepo.com/design-systems/" target="_blank">디자인 시스템 갤러리</a>
+- <a href="https://www.lightningdesignsystem.com/design-tokens/#category-color" target="_blank">Design Tokens</a>
+- <a href="https://bi.spoqa.com/" target="_blank">스포카 Design Guideline</a>
+- <a href="https://www.ibm.com/design/" target="_blank">IBM Design</a>
+- <a href="https://carbondesignsystem.com/" target="_blank">Carbon design system</a>
+- <a href="https://blog.toss.im/article/toss-designer-interview" target="_blank">TDS(toss design system)</a>
+- <a href="https://brunch.co.kr/@creative/105" target="_blank">티몬 UI kit</a>
+- <a href="https://programmers.co.kr/design/components" target="_blank">프로그래머스 design system</a>
+- <a href="https://ui.class101.dev/" target="_blank">Class 101 UI Code</a>
+- <a href="https://atlassian.design/" target="_blank">Atlassian Design system</a>
+- <a href="https://designsystemsrepo.com/design-systems/" target="_blank">디자인 시스템 갤러리</a>
