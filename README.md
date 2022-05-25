@@ -81,7 +81,7 @@
 
 ## :lips: Naming
 - <a href="https://www.duetds.com/naming/" target="_blank">duetds naming 참고</a>
-<a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">UI Kit 네이밍 참고</a>
+- <a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">UI Kit 네이밍 참고</a>
 
 ```
 [Root component name] = Button
