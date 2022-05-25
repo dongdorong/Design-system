@@ -1,12 +1,12 @@
 # Design system archive
 - Design system 작업에 앞서 리서치한 부분들을 아카이브하는 공간입니다.
 
-### Design system?
+## :eight_spoked_asterisk: Design system?
 - Product design 작업 시 일관된 design style을 전달하고 작업 시간을 줄이는 효율성을 주기 위해 Design system을 설계합니다.
 - Design token을 사용하여 UI를 Component화 하여 관리합니다.
 - Product가 커질수록 관리를 수월하게 할 수 있습니다.
 
-### Design system research
+## Design system research
 - <a href="https://www.lightningdesignsystem.com/design-tokens/#category-color" target="_blank">Design Tokens</a>
 - <a href="https://bi.spoqa.com/" target="_blank">스포카 Design Guideline</a>
 - <a href="https://www.ibm.com/design/" target="_blank">IBM Design</a>
@@ -22,24 +22,28 @@
 - <a href="https://polaris.shopify.com/" target="_blank">Shopify Design system</a>
 - <a href="https://design.gitlab.com/" target="_blank">Gitlab Design system</a>
 
-### Design system architecture
-- Design Tokens
-  - Color
-  - Border radius 
-  - Border width
-  - Opacity
-  - Box shadow
-  - Spacing
-  - Typography
-    - Font family
-    - Font weight
-    - Line height
-    - Font size
-    - Letter spacing
-    - Paragraph spacing
-    - Text decoration
-- Design Component
-  - Grid
+## :diamond_shape_with_a_dot_inside: Design system architecture
+
+<details>
+<summary> Design Tokens</summary>
+- Color
+- Border radius 
+- Border width
+- Opacity
+- Box shadow
+- Spacing
+- Typography
+  - Font family
+  - Font weight
+  - Line height
+  - Font size
+  - Letter spacing
+  - Paragraph spacing
+  - Text decoration
+</details>
+<details>
+<summary>Design Component</summary>
+- Grid
   - buttons
     - Default (outline)
     - Primary
@@ -73,12 +77,13 @@
   - Tag
   - Bottom Sheet
   - Dim
+</details>
 - Brand
   - Logo
 - Icon
 - Graphic Source
 
-### Naming
+## :lips: Naming
 - <a href="https://www.duetds.com/naming/" target="_blank">duetds naming</a>
 
 ```
@@ -99,3 +104,6 @@
 [Example] = Badge/Success/sm/Light/False
 ```
 <a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">네이밍 참고</a>
+
+## :neckbeard: 디자인 시스템 관리 방법
+<a href="https://www.slideshare.net/NaverEngineering/ss-238530809">마이리얼트립 디자인 리드 발표 자료 P17</a>
