@@ -6,7 +6,7 @@
 - Design token을 사용하여 UI를 Component화 하여 관리합니다.
 - Product가 커질수록 관리를 수월하게 할 수 있습니다.
 
-## Design system research
+## :open_file_folder: Design system research
 - <a href="https://www.lightningdesignsystem.com/design-tokens/#category-color" target="_blank">Design Tokens</a>
 - <a href="https://bi.spoqa.com/" target="_blank">스포카 Design Guideline</a>
 - <a href="https://www.ibm.com/design/" target="_blank">IBM Design</a>
@@ -101,6 +101,6 @@
 [Example] = Badge/Success/sm/Light/False
 ```
 
-## :neckbeard: 디자인 시스템 관리 방법
+## :speech_balloon: 디자인 시스템 관리 방법
 <a href="https://www.slideshare.net/NaverEngineering/ss-238530809">마이리얼트립 디자인 리드 발표 자료 P17</a>
 - 업데이트된 디자인 시스템 건에 대해서는 팀에게 노티하기
