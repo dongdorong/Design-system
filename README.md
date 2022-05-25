@@ -26,20 +26,20 @@
 
 <details>
 <summary> Design Tokens</summary>
-* Color
-* Border radius 
-* Border width
-* Opacity
-* Box shadow
-* Spacing
-* Typography
-  * Font family
-  * Font weight
-  * Line height
-  * Font size
-  * Letter spacing
-  * Paragraph spacing
-  * Text decoration
+* <p>Color</p>
+* <p>Border radius </p>
+* <p>Border width</p>
+* <p>Opacity</p>
+* <p>Box shadow</p>
+* <p>Spacing</p>
+* <p>Typography</p>
+  * <p>Font family</p>
+  * <p>Font weight</p>
+  * <p>Line height</p>
+  * <p>Font size</p>
+  * <p>Letter spacing</p>
+  * <p>Paragraph spacing</p>
+  * <p>Text decoration</p>
 </details>
 <details>
 <summary>Design Component</summary>
