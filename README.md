@@ -24,67 +24,64 @@
 
 ## :diamond_shape_with_a_dot_inside: Design system architecture
 
-<details>
-<summary> Design Tokens</summary>
-* <p>Color</p>
-* <p>Border radius </p>
-* <p>Border width</p>
-* <p>Opacity</p>
-* <p>Box shadow</p>
-* <p>Spacing</p>
-* <p>Typography</p>
-  * <p>Font family</p>
-  * <p>Font weight</p>
-  * <p>Line height</p>
-  * <p>Font size</p>
-  * <p>Letter spacing</p>
-  * <p>Paragraph spacing</p>
-  * <p>Text decoration</p>
-</details>
-<details>
-<summary>Design Component</summary>
-- Grid
-  - buttons
-    - Default (outline)
-    - Primary
-    - Danger
-    - Alert
-    - Warning
-    - Link
-    - button group
-    - button size
-      - Large
-      - Normal
-      - Medium
-      - Small
-      - Extra small
-    - button Block
-  - Dropdown
-  - Alerts
-  - Forms
-  - Table
-  - Modal
-  - Badge
-  - Pagination
-  - Collapse
-  - List group
-  - Tooltip
-  - Card
-  - Tab
-  - Progress bar
-  - Loading (Spinner) 
-  - Swiper
-  - Tag
-  - Bottom Sheet
-  - Dim
-</details>
+- Design Tokens
+  - Color
+  - Border radius 
+  - Border width
+  - Opacity
+  - Box shadow
+  - Spacing
+  - Typography
+    - Font family
+    - Font weight
+    - Line height
+    - Font size
+    - Letter spacing
+    - Paragraph spacing
+    - Text decoration
 - Brand
   - Logo
 - Icon
 - Graphic Source
+- Design Component
+  - Grid
+    - buttons
+      - Default (outline)
+      - Primary
+      - Danger
+      - Alert
+      - Warning
+      - Link
+      - button group
+      - button size
+        - Large
+        - Normal
+        - Medium
+        - Small
+        - Extra small
+      - button Block
+    - Dropdown
+    - Alerts
+    - Forms
+    - Table
+    - Modal
+    - Badge
+    - Pagination
+    - Collapse
+    - List group
+    - Tooltip
+    - Card
+    - Tab
+    - Progress bar
+    - Loading (Spinner) 
+    - Swiper
+    - Tag
+    - Bottom Sheet
+    - Dim
 
 ## :lips: Naming
-- <a href="https://www.duetds.com/naming/" target="_blank">duetds naming</a>
+- <a href="https://www.duetds.com/naming/" target="_blank">duetds naming 참고</a>
+<a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">UI Kit 네이밍 참고</a>
 
 ```
 [Root component name] = Button
@@ -103,7 +100,7 @@
 [State] = N/A
 [Example] = Badge/Success/sm/Light/False
 ```
-<a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">네이밍 참고</a>
 
 ## :neckbeard: 디자인 시스템 관리 방법
 <a href="https://www.slideshare.net/NaverEngineering/ss-238530809">마이리얼트립 디자인 리드 발표 자료 P17</a>
+- 업데이트된 디자인 시스템 건에 대해서는 팀에게 노티하기
