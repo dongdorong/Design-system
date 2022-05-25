@@ -60,24 +60,24 @@
         - Small
         - Extra small
       - button Block
-    - Dropdown
-    - Alerts
-    - Forms
-    - Table
-    - Modal
-    - Badge
-    - Pagination
-    - Collapse
-    - List group
-    - Tooltip
-    - Card
-    - Tab
-    - Progress bar
-    - Loading (Spinner) 
-    - Swiper
-    - Tag
-    - Bottom Sheet
-    - Dim
+  - Dropdown
+  - Alerts
+  - Forms
+  - Table
+  - Modal
+  - Badge
+  - Pagination
+  - Collapse
+  - List group
+  - Tooltip
+  - Card
+  - Tab
+  - Progress bar
+  - Loading (Spinner) 
+  - Swiper
+  - Tag
+  - Bottom Sheet
+  - Dim
 
 ## :lips: Naming
 - <a href="https://www.duetds.com/naming/" target="_blank">duetds naming 참고</a>
