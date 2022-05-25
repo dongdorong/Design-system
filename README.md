@@ -17,3 +17,85 @@
 - <a href="https://ui.class101.dev/" target="_blank">Class 101 UI Code</a>
 - <a href="https://atlassian.design/" target="_blank">Atlassian Design system</a>
 - <a href="https://designsystemsrepo.com/design-systems/" target="_blank">디자인 시스템 갤러리</a>
+- <a href="https://www.duetds.com/" target="_blank">duetds Design system</a>
+- <a href="https://socarframe.socar.kr/8bb3aba4a/p/480a5e-introduction" target="_blank">Socar Design system</a>
+- <a href="https://polaris.shopify.com/" target="_blank">Shopify Design system</a>
+- <a href="https://design.gitlab.com/" target="_blank">Gitlab Design system</a>
+
+### Design system architecture
+- Design Tokens
+  - Color
+  - Border radius 
+  - Border width
+  - Opacity
+  - Box shadow
+  - Spacing
+  - Typography
+    - Font family
+    - Font weight
+    - Line height
+    - Font size
+    - Letter spacing
+    - Paragraph spacing
+    - Text decoration
+- Design Component
+  - Grid
+  - buttons
+    - Default (outline)
+    - Primary
+    - Danger
+    - Alert
+    - Warning
+    - Link
+    - button group
+    - button size
+      - Large
+      - Normal
+      - Medium
+      - Small
+      - Extra small
+    - button Block
+  - Dropdown
+  - Alerts
+  - Forms
+  - Table
+  - Modal
+  - Badge
+  - Pagination
+  - Collapse
+  - List group
+  - Tooltip
+  - Card
+  - Tab
+  - Progress bar
+  - Loading (Spinner) 
+  - Swiper
+  - Tag
+  - Bottom Sheet
+  - Dim
+- Brand
+  - Logo
+- Icon
+- Graphic Source
+
+### Naming
+- <a href="https://www.duetds.com/naming/" target="_blank">duetds naming</a>
+
+```
+[Root component name] = Button
+[Type] = Primary, Outline primary, Outline gray, Ghost
+[Size] = xs, sm, md, lg
+[Extra parameters] = “{:Icon=None, Left, Right, Only}, {:Destructive=True/False}”
+[State] = Default, Hover, Focus, Disabled
+[Example] = Button/Primary/md/left/Hover
+```
+
+```
+[Root component name] = Badge
+[Type] = Primary, Error, Info, Success, Warning, Gray
+[Size] =  xs, sm, md
+[Extra parameters] = “{Theme=light,dark}, {Outline=True,False}”
+[State] = N/A
+[Example] = Badge/Success/sm/Light/False
+```
+<a href="https://www.figma.com/community/file/1108679668074690379" target="_blank">네이밍 참고</a>
