@@ -104,5 +104,7 @@
 ## :speech_balloon: 디자인 시스템 관리 방법
 <a href="https://www.slideshare.net/NaverEngineering/ss-238530809">마이리얼트립 디자인 리드 발표 자료 P17</a>
 - 업데이트된 디자인 시스템 건에 대해서는 팀에게 노티하기
+  - 메일로 노티하는 경우도 있지만 슬랙 채널을 따로 만들어서 관리해도 좋지 않을까? 하는 생각도 든다. 
+  - Design-system-release 
 - 피그마에 Save history 기능을 사용해서 디자인 시스템 관리하기
 - 피그마에 Docs를 만들어서 어떤 부분이 업데이트됐는지 로그 남겨놓기
