@@ -45,21 +45,21 @@
 - Graphic Source
 - Design Component
   - Grid
-    - buttons
-      - Default (outline)
-      - Primary
-      - Danger
-      - Alert
-      - Warning
-      - Link
-      - button group
-      - button size
-        - Large
-        - Normal
-        - Medium
-        - Small
-        - Extra small
-      - button Block
+  - buttons
+    - Default (outline)
+    - Primary
+    - Danger
+    - Alert
+    - Warning
+    - Link
+    - button group
+    - button Block
+    - button size
+      - Large
+      - Normal
+      - Medium
+      - Small
+      - Extra small
   - Dropdown
   - Alerts
   - Forms
